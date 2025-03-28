@@ -20,6 +20,13 @@ Model Context Protocol (MCP) is a groundbreaking technology released by Anthropi
 
 ## Official Resources
 
+Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic
+https://youtu.be/kQmXtrmQ5Zg?si=giiLJisrhXkvJjiV
+
+Learn MCP Servers with Python
+https://youtu.be/Ek8JHgZtmcI?si=6-jN8H1PIEAnkxFK
+
+
 ### GitHub Repositories
 - [Official Documentation & Specification](https://github.com/modelcontextprotocol/mcp)
 - SDKs: [TypeScript](https://github.com/modelcontextprotocol/typescript-sdk), [Python](https://github.com/modelcontextprotocol/python-sdk), [Java](https://github.com/modelcontextprotocol/java-sdk), [Kotlin](https://github.com/modelcontextprotocol/kotlin-sdk), [C#](https://github.com/modelcontextprotocol/csharp-sdk)
